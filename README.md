@@ -24,8 +24,3 @@ Applied Apriori algorithm to retail transaction data to uncover product combinat
 
 ## Tools Used  
 Python, Pandas, mlxtend (Apriori), Matplotlib/Seaborn
-
-## Next Steps  
-- Try varying support/confidence thresholds  
-- Use FP-Growth for faster processing  
-- Integrate results into a Tableau dashboard
